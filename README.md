@@ -19,7 +19,8 @@
 
 ## 🧭 About Me
 
-<img align="right" alt="coding gif" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" width="320"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, Coimbatore — 3rd year
 - 💻 Full-stack developer comfortable across **React, Node.js, Express, MongoDB**
