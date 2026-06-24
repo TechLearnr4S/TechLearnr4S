@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Shiva%20Shanmugan%20S%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Shiva%20Shanmugan%20S%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20GenAI%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/TechLearnr4S">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=B.Tech+CSE+Student+%40+Amrita+Vishwa+Vidyapeetham;Full+Stack+Developer+%7C+React+%2B+Node+%2B+MongoDB;Building+Agentic+AI+%26+LLM-powered+products;Currently+shipping%2C+not+just+studying" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=B.Tech+CSE+Student+%40+Amrita+Vishwa+Vidyapeetham;Full+Stack+Developer+%7C+React+%2B+Node+%2B+MongoDB;Building+Agentic+AI+and+LLM-powered+products;Currently+shipping%2C+not+just+studying" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,8 +37,6 @@ shiva:
 <br clear="right"/>
 
 ---
-
-
 
 ## 🛠️ Tech Stack
 
@@ -85,7 +83,7 @@ shiva:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TechLearnr4S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TechLearnr4S&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=TechLearnr4S&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -206,8 +204,8 @@ System-level builds in progress: HTTP server from raw TCP sockets, Redis-inspire
 ![Networks](https://img.shields.io/badge/Computer_Networks-4B8BBE?style=for-the-badge)
 ![TOC](https://img.shields.io/badge/Theory_of_Computation-6C63FF?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter%2FDart-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA_%26_Competitive_Programming-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_%26_LLM_Agents-8E44AD?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA_and_Competitive_Programming-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_and_LLM_Agents-8E44AD?style=for-the-badge)
 
 </div>
 
