@@ -26,12 +26,10 @@
 - 🤖 Building real products with **LLMs, LangChain/LangGraph, and Agentic AI** — not just experimenting with prompts
 - 🏆 Active hackathon competitor — building shipped, working systems under deadline pressure, not just slide decks
 - 🧠 Currently deep in **DSA, System Design fundamentals, and Computer Networks**
-- 🌱 Long-term goal: **Software/AI Engineer at a top product-based company**
 
 ```yaml
 shiva:
-  currently_building: ["Job Tracker — full-stack auth + Kanban + live deploy"]
-  currently_learning: ["Advanced DSA patterns", "System Design", "Flutter"]
+  currently_learning: ["Machine Learning", "Block Chain", "Flutter"]
   obsessed_with: ["shipping over researching", "understanding > shortcuts"]
   looking_to_collaborate_on: ["AI agents", "developer tools", "open source"]
 ```
@@ -40,16 +38,7 @@ shiva:
 
 ---
 
-## 🎯 Career Goals
 
-| Goal | Status |
-|---|---|
-| 🏢 Software/AI Engineer at a top product company | 🔄 In progress |
-| 🧩 Build impactful, real-world AI products | ✅ Ongoing (LevelUp.ai, FairLens, TenderIQ) |
-| 🌍 Contribute to Open Source | 🔄 Starting |
-| 📈 Crack DSA + System Design for Tier-1 interviews | 🔄 In progress |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -148,29 +137,6 @@ jobs:
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TechLearnr4S&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
----
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/your-leetcode-username/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-gfg-username/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-username)
-
-*(replace the placeholder usernames above with your actual profile links)*
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -244,16 +210,6 @@ System-level builds in progress: HTTP server from raw TCP sockets, Redis-inspire
 ![RAG](https://img.shields.io/badge/RAG_%26_LLM_Agents-8E44AD?style=for-the-badge)
 
 </div>
-
----
-
-## ⚡ Fun Facts
-
-- 🏔️ Planning a Ladakh bike trip — adventure on two wheels, not just side projects
-- 🥇 Top 800 out of 52,000+ teams at Meta's PyTorch OpenEnv Hackathon Grand Finale
-- 🏋️ Gym in the mornings, code in the afternoons
-- 📜 Presented a research paper on explainable AI for workplace stress prediction
-- ⚙️ Believes in building things from scratch to actually understand them — no shortcuts
 
 ---
 
