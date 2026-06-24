@@ -93,7 +93,7 @@ shiva:
 <br><br>
 
 </div>
-```html
+
 ## 🚀 Featured Projects & Hackathon Builds
 
 <p align="center">
