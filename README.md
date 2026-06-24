@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Shiva%20Shanmugan%20S%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20GenAI%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Shiva%20Shanmugan%20S%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Software%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/TechLearnr4S">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=B.Tech+CSE+Student+%40+Amrita+Vishwa+Vidyapeetham;Full+Stack+Developer+%7C+React+%2B+Node+%2B+MongoDB;Building+Agentic+AI+and+LLM-powered+products;Currently+shipping%2C+not+just+studying" alt="Typing SVG" />
@@ -82,58 +82,21 @@ shiva:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechLearnr4S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=TechLearnr4S&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechLearnr4S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<br/>
+<img height="180em" src="https://streak-stats.demolab.com?user=TechLearnr4S&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechLearnr4S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br><br>
 
-<br/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechLearnr4S&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechLearnr4S&theme=tokyo-night&hide_border=true" width="100%"/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechLearnr4S&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
-<details>
-<summary>🐍 Contribution Snake (setup required)</summary>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/TechLearnr4S/TechLearnr4S/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-To activate this, add the following GitHub Action to `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: TechLearnr4S
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
+--
 
 ## 🚀 Featured Projects
 
