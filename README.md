@@ -19,7 +19,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="320"
+<img align="right" width="310"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, Coimbatore — 3rd year
