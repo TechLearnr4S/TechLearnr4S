@@ -96,7 +96,9 @@ shiva:
 
 </div>
 
---
+<p align="center">
+  <img src="https://github.com/TechLearnr4S/TechLearnr4S/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+</p>
 
 ## 🚀 Featured Projects
 
