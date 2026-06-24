@@ -92,14 +92,7 @@ shiva:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechLearnr4S&theme=tokyo-night&hide_border=true&area=true"/>
-
 </div>
-
-<p align="center">
-  <img src="https://github.com/TechLearnr4S/TechLearnr4S/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
-</p>
-
 ## 🚀 Featured Projects
 
 <table>
