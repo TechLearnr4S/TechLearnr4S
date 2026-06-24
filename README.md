@@ -177,19 +177,9 @@ Multi-agent reinforcement learning system for power grid operations — built fo
 <tr>
 <td width="50%" valign="top">
 
-### 📌 Job/Internship Tracker
-Full-stack job application tracker with **JWT auth**, Kanban-style pipeline, and live deployment — used daily during active job search.
 
-`React` `Vite` `MUI` `Node.js` `Express` `MongoDB Atlas` `Vercel` `Render`
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔓 More on the way
-System-level builds in progress: HTTP server from raw TCP sockets, Redis-inspired KV store, and a network packet analyzer.
-
-`Node.js net module` `TCP/IP` `Systems Programming`
-
 </td>
 </tr>
 </table>
