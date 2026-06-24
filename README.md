@@ -121,7 +121,7 @@ Building products, not just tutorials.
 
 🌟 AI • Career Guidance • Multi-Agent Systems
 
-<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
+<a href="https://github.com/TechLearnr4S/LevelUp-ai">📂 Repository</a>
 
 </td>
 
@@ -142,7 +142,7 @@ Building products, not just tutorials.
 
 🌟 Document Intelligence • RAG • Government Tech
 
-<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
+<a href="https://github.com/TechLearnr4S/TenderIQ">📂 Repository</a>
 
 </td>
 
@@ -166,7 +166,7 @@ Building products, not just tutorials.
 
 🌟 Responsible AI • Fairness Metrics • Explainability
 
-<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
+<a href="https://github.com/TechLearnr4S/Fairlens">📂 Repository</a>
 
 </td>
 
@@ -186,7 +186,7 @@ Building products, not just tutorials.
 
 🌟 Reinforcement Learning • Distributed Systems • AI Research
 
-<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
+<a href="https://github.com/TechLearnr4S/GRID-OPS-ENV">📂 Repository</a>
 
 </td>
 
