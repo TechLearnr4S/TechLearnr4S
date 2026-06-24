@@ -93,56 +93,123 @@ shiva:
 <br><br>
 
 </div>
-## 🚀 Featured Projects
+```html
+## 🚀 Featured Projects & Hackathon Builds
+
+<p align="center">
+Building products, not just tutorials.
+</p>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 LevelUp.ai
-Agentic AI career assistant built with **LangChain + LangGraph** and **Gemini / GPT-4o**, designed and pitched live at a hackathon.
+## 🤖 LevelUp.ai
 
-`LangChain` `LangGraph` `Gemini API` `GPT-4o` `Python`
+🚀 Agentic AI career assistant powered by multi-agent workflows and LLMs.
+
+🏆 Designed and pitched live at a hackathon.
+
+🔧 **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square)
+
+🌟 AI • Career Guidance • Multi-Agent Systems
+
+<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📄 TenderIQ
-End-to-end tender intelligence platform built for a **CRPF hackathon** — parses, analyzes, and surfaces insights from government tender documents.
+## 📄 TenderIQ
 
-`FastAPI` `Supabase` `Groq` `Next.js`
+🚀 End-to-end tender intelligence platform that parses, analyzes and surfaces insights from government tenders.
+
+🏆 Built for the CRPF Hackathon.
+
+🔧 **Tech Stack**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+🌟 Document Intelligence • RAG • Government Tech
+
+<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚖️ FairLens
-Bias-auditing platform for AI systems, built for the **Google Solution Challenge 2026** — flags fairness issues in model outputs and decisions.
+## ⚖️ FairLens
 
-`Python` `FastAPI` `ML Fairness Metrics`
+🚀 Bias auditing platform that evaluates fairness in AI systems and model decisions.
+
+🏆 Built for Google Solution Challenge 2026.
+
+🔧 **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square)
+
+🌟 Responsible AI • Fairness Metrics • Explainability
+
+<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⚡ GridOpsEnv
-Multi-agent reinforcement learning system for power grid operations — built for the **Meta PyTorch OpenEnv Hackathon**, advanced to the Grand Finale (top 800 of 52,000+ teams).
+## ⚡ GridOpsEnv
 
-`PyTorch` `Reinforcement Learning` `Multi-Agent Systems`
+🚀 Multi-agent reinforcement learning environment for power grid operations.
+
+🏆 Grand Finalist — Top 800 of 52,000+ teams in the Meta PyTorch OpenEnv Hackathon.
+
+🔧 **Tech Stack**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-6C63FF?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi_Agent_Systems-FF9800?style=flat-square)
+
+🌟 Reinforcement Learning • Distributed Systems • AI Research
+
+<a href="#">🌐 Demo</a> • <a href="#">📂 Repository</a>
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
+## 🚀 More Projects Coming Soon
 
+Currently building:
 
-### 🔓 More on the way
+🤖 Agentic AI Systems • ⚡ SaaS Applications • 📱 Flutter Apps • 🔗 Blockchain Projects • 🧠 Machine Learning Tools
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Building...;Always+Learning...;Shipping+Projects+One+Commit+at+a+Time..." />
+
+⭐ Follow my journey as I build and ship more projects!
+
 </td>
 </tr>
+
 </table>
-
----
+```
 
 ## 📚 Current Learning
 
