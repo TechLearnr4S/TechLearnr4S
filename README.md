@@ -1,16 +1,279 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TechLearnr4S/TechLearnr4S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Shiva%20Shanmugan%20S%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/TechLearnr4S">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=B.Tech+CSE+Student+%40+Amrita+Vishwa+Vidyapeetham;Full+Stack+Developer+%7C+React+%2B+Node+%2B+MongoDB;Building+Agentic+AI+%26+LLM-powered+products;Currently+shipping%2C+not+just+studying" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-shanmugan-s-s)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiva4s1204@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shiva_120406)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechLearnr4S)
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+<img align="right" alt="coding gif" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎓 B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, Coimbatore — 3rd year
+- 💻 Full-stack developer comfortable across **React, Node.js, Express, MongoDB**
+- 🤖 Building real products with **LLMs, LangChain/LangGraph, and Agentic AI** — not just experimenting with prompts
+- 🏆 Active hackathon competitor — building shipped, working systems under deadline pressure, not just slide decks
+- 🧠 Currently deep in **DSA, System Design fundamentals, and Computer Networks**
+- 🌱 Long-term goal: **Software/AI Engineer at a top product-based company**
+
+```yaml
+shiva:
+  currently_building: ["Job Tracker — full-stack auth + Kanban + live deploy"]
+  currently_learning: ["Advanced DSA patterns", "System Design", "Flutter"]
+  obsessed_with: ["shipping over researching", "understanding > shortcuts"]
+  looking_to_collaborate_on: ["AI agents", "developer tools", "open source"]
+```
+
+<br clear="right"/>
+
+---
+
+## 🎯 Career Goals
+
+| Goal | Status |
+|---|---|
+| 🏢 Software/AI Engineer at a top product company | 🔄 In progress |
+| 🧩 Build impactful, real-world AI products | ✅ Ongoing (LevelUp.ai, FairLens, TenderIQ) |
+| 🌍 Contribute to Open Source | 🔄 Starting |
+| 📈 Crack DSA + System Design for Tier-1 interviews | 🔄 In progress |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,java,c,haskell&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis&theme=dark" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,netlify,postman,vscode&theme=dark" />
+
+**AI / ML — Currently Building With**
+<br/>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
+&nbsp;
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechLearnr4S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TechLearnr4S&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechLearnr4S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechLearnr4S&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<details>
+<summary>🐍 Contribution Snake (setup required)</summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/TechLearnr4S/TechLearnr4S/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+To activate this, add the following GitHub Action to `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: TechLearnr4S
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TechLearnr4S&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
+## 👨‍💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/your-leetcode-username/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-gfg-username/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-username)
+
+*(replace the placeholder usernames above with your actual profile links)*
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 LevelUp.ai
+Agentic AI career assistant built with **LangChain + LangGraph** and **Gemini / GPT-4o**, designed and pitched live at a hackathon.
+
+`LangChain` `LangGraph` `Gemini API` `GPT-4o` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 TenderIQ
+End-to-end tender intelligence platform built for a **CRPF hackathon** — parses, analyzes, and surfaces insights from government tender documents.
+
+`FastAPI` `Supabase` `Groq` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ FairLens
+Bias-auditing platform for AI systems, built for the **Google Solution Challenge 2026** — flags fairness issues in model outputs and decisions.
+
+`Python` `FastAPI` `ML Fairness Metrics`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ GridOpsEnv
+Multi-agent reinforcement learning system for power grid operations — built for the **Meta PyTorch OpenEnv Hackathon**, advanced to the Grand Finale (top 800 of 52,000+ teams).
+
+`PyTorch` `Reinforcement Learning` `Multi-Agent Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📌 Job/Internship Tracker
+Full-stack job application tracker with **JWT auth**, Kanban-style pipeline, and live deployment — used daily during active job search.
+
+`React` `Vite` `MUI` `Node.js` `Express` `MongoDB Atlas` `Vercel` `Render`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔓 More on the way
+System-level builds in progress: HTTP server from raw TCP sockets, Redis-inspired KV store, and a network packet analyzer.
+
+`Node.js net module` `TCP/IP` `Systems Programming`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Current Learning
+
+<div align="center">
+
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
+![Networks](https://img.shields.io/badge/Computer_Networks-4B8BBE?style=for-the-badge)
+![TOC](https://img.shields.io/badge/Theory_of_Computation-6C63FF?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter%2FDart-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_%26_Competitive_Programming-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_%26_LLM_Agents-8E44AD?style=for-the-badge)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🏔️ Planning a Ladakh bike trip — adventure on two wheels, not just side projects
+- 🥇 Top 800 out of 52,000+ teams at Meta's PyTorch OpenEnv Hackathon Grand Finale
+- 🏋️ Gym in the mornings, code in the afternoons
+- 📜 Presented a research paper on explainable AI for workplace stress prediction
+- ⚙️ Believes in building things from scratch to actually understand them — no shortcuts
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-shanmugan-s-s)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiva4s1204@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shiva_120406)
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=TechLearnr4S&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=TechLearnr4S.TechLearnr4S" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=footer" width="100%"/>
+
+</div>
