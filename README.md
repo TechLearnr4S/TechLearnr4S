@@ -83,15 +83,17 @@ shiva:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechLearnr4S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<!-- GitHub Stats + Top Languages -->
 
-<img height="180em" src="https://streak-stats.demolab.com?user=TechLearnr4S&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TechLearnr4S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechLearnr4S&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechLearnr4S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
+
+<!-- GitHub Streak -->
+
+<img width="75%" src="https://streak-stats.demolab.com?user=TechLearnr4S&theme=tokyonight&hide_border=true" />
 
 </div>
 
